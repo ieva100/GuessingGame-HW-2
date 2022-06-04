@@ -1,5 +1,5 @@
 # GuessingGame-HW-2
-Homework 2 for Menuo su IT Project
+Homework 2 for Menuo su IT Project.  
 Žaidimas "Guessing Game"
 Programa atsitiktinai parenka skaičių nuo 1 iki 100.
 Žaidėjas spėja skaičių.  Žaidėjas turi 5 bandymus.
